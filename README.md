@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ...
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning java and C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Dart and Flutter.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me: alexintong022@gmail.com
 
 <!---
 intong22/intong22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

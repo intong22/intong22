@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning Dart and Flutter.
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: ialexash85@gmail.com
 
